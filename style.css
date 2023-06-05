@@ -1,0 +1,42 @@
+.icon {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+  }
+  
+  .icon img {
+    width: 30px;
+    height: 30px;
+  }
+  .header {
+    text-align: center;
+    font-size: 35px;
+    position: fixed;
+    top: 25px;
+    margin-left: 30%;
+  }
+  h1 {
+    text-align: center;
+  }
+  img {
+    width: 25%;
+    height: 200px;
+    display: inline-block;
+    position: absolute;
+    border: 2px solid green;
+    border-radius: 10px;
+  }
+  .box {
+    background-color: aquamarine;
+    border-radius: 15px;
+  }
+  .center {
+    position: relative;
+    top: 10%;
+    width: 100%;
+    height: 25px;
+    text-align: center;
+    font-size: 18px;
+    background-color: yellow;
+    border-radius: 10px;
+  }
